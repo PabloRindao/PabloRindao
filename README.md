@@ -8,6 +8,9 @@
 - 👨‍🎓 Materias Que eu gosto Matemática,Quimica,Física e Biologia
 - ❤️ Gosto de Estudar e jogar 
 - 🚫 Não gosto de ''perder tempo''
+- 📚 Gosto de ler 
+- 👍 Tenho vários amigos
+
 
 <!---
 PabloRindao/PabloRindao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
